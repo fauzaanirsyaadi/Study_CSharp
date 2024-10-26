@@ -1,0 +1,15 @@
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\ExceptionHandlingExample\bin\Debug\net8.0\ExceptionHandlingExample.exe
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\ExceptionHandlingExample\bin\Debug\net8.0\ExceptionHandlingExample.deps.json
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\ExceptionHandlingExample\bin\Debug\net8.0\ExceptionHandlingExample.runtimeconfig.json
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\ExceptionHandlingExample\bin\Debug\net8.0\ExceptionHandlingExample.dll
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\ExceptionHandlingExample\bin\Debug\net8.0\ExceptionHandlingExample.pdb
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\ExceptionHandlingExample\obj\Debug\net8.0\ExceptionHandlingExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\ExceptionHandlingExample\obj\Debug\net8.0\ExceptionHandlingExample.AssemblyInfoInputs.cache
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\ExceptionHandlingExample\obj\Debug\net8.0\ExceptionHandlingExample.AssemblyInfo.cs
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\ExceptionHandlingExample\obj\Debug\net8.0\ExceptionHandlingExample.csproj.CoreCompileInputs.cache
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\ExceptionHandlingExample\obj\Debug\net8.0\ExceptionHandlingExample.sourcelink.json
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\ExceptionHandlingExample\obj\Debug\net8.0\ExceptionHandlingExample.dll
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\ExceptionHandlingExample\obj\Debug\net8.0\refint\ExceptionHandlingExample.dll
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\ExceptionHandlingExample\obj\Debug\net8.0\ExceptionHandlingExample.pdb
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\ExceptionHandlingExample\obj\Debug\net8.0\ExceptionHandlingExample.genruntimeconfig.cache
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\ExceptionHandlingExample\obj\Debug\net8.0\ref\ExceptionHandlingExample.dll

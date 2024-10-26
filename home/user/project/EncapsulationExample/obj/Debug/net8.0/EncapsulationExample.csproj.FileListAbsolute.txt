@@ -1,0 +1,15 @@
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\EncapsulationExample\obj\Debug\net8.0\EncapsulationExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\EncapsulationExample\obj\Debug\net8.0\EncapsulationExample.AssemblyInfoInputs.cache
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\EncapsulationExample\obj\Debug\net8.0\EncapsulationExample.AssemblyInfo.cs
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\EncapsulationExample\obj\Debug\net8.0\EncapsulationExample.csproj.CoreCompileInputs.cache
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\EncapsulationExample\obj\Debug\net8.0\EncapsulationExample.sourcelink.json
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\EncapsulationExample\bin\Debug\net8.0\EncapsulationExample.exe
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\EncapsulationExample\bin\Debug\net8.0\EncapsulationExample.deps.json
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\EncapsulationExample\bin\Debug\net8.0\EncapsulationExample.runtimeconfig.json
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\EncapsulationExample\bin\Debug\net8.0\EncapsulationExample.dll
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\EncapsulationExample\bin\Debug\net8.0\EncapsulationExample.pdb
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\EncapsulationExample\obj\Debug\net8.0\EncapsulationExample.dll
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\EncapsulationExample\obj\Debug\net8.0\refint\EncapsulationExample.dll
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\EncapsulationExample\obj\Debug\net8.0\EncapsulationExample.pdb
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\EncapsulationExample\obj\Debug\net8.0\EncapsulationExample.genruntimeconfig.cache
+C:\Users\fauza\Desktop\Study_CSharp\home\user\project\EncapsulationExample\obj\Debug\net8.0\ref\EncapsulationExample.dll
